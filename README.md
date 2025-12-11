@@ -1,5 +1,6 @@
 # 树莓派 5 搭建 LoRaWAN 网关与私有 ChirpStack 服务器完全指南
 
+#### chirpstack官方部署教程 https://www.chirpstack.io/docs/getting-started/docker.html
 **适用硬件**： Raspberry Pi 5 (8GB/4GB) + Waveshare SX1303 LoRaWAN Gateway HAT  
 **适用系统**： Raspberry Pi OS (Debian 12 Bookworm / Debian 13 Trixie)  
 **目标**： 实现纯本地、私有化的 LoRaWAN 网络覆盖与数据采集。
